@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Project Specific
+downloads/
+logs/
+ChromeProfile/
+chrome_profile_test/
+scratch/
+*.zip
+
+# User Data Files
+download_mapping.json
+link_saver.json
+renamer_settings.json
+cookie_store.json
