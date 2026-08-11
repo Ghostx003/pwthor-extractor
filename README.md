@@ -80,5 +80,5 @@ This tool is for educational purposes and personal archival only. Do not use thi
 
 ---
 <div align="center">
-  <i>Crafted with 🖤 by the PWTHOR Extractor Team (2026)</i>
+  <i>Made with 🖤 from the shadows of Bhubaneswar (2026)</i>
 </div>
