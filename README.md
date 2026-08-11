@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⚡ PW Extractor ⚡</h1>
+  <h1>⚡ PWTHOR Extractor ⚡</h1>
   <p><strong>The Ultimate Automated Video Downloader & Scraper</strong></p>
   
   [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -11,7 +11,7 @@
 
 ## 🌟 What is it?
 
-**PW Extractor** is a state-of-the-art automation suite built to seamlessly download videos, capture direct links, and intelligently rename video files—all from a beautifully streamlined terminal interface.
+**PWTHOR Extractor** is a state-of-the-art automation suite built to seamlessly download videos, capture direct links, and intelligently rename video files—all from a beautifully streamlined terminal interface.
 
 Powered by `Playwright`, this script drives a headless (or dark-mode visible) Chromium browser that mimics human interaction, intelligently extracting video links, titles, and durations directly from DOM articles, ensuring lightning-fast metadata capture!
 
@@ -80,5 +80,5 @@ This tool is for educational purposes and personal archival only. Do not use thi
 
 ---
 <div align="center">
-  <i>Crafted with 🖤 by the PW Extractor Team (2026)</i>
+  <i>Crafted with 🖤 by the PWTHOR Extractor Team (2026)</i>
 </div>
