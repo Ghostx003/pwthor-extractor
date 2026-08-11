@@ -16,7 +16,6 @@ downloads/
 logs/
 ChromeProfile/
 chrome_profile_test/
-scratch/
 *.zip
 
 # User Data Files
